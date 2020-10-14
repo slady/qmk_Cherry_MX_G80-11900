@@ -29,7 +29,7 @@
     },
     "Insert",
     "Home",
-    "Page Up",
+    "PgUp",
     {
       "a": 4,
       "fa": [
@@ -46,7 +46,7 @@
         0
       ]
     },
-    "Print Scrn\nSys Rq\n\n\n\n\n_____",
+    "PrtSc\nSysRq\n\n\n\n\n_____",
     {
       "x": 0.5
     },
@@ -103,7 +103,7 @@
     {
       "f": 3
     },
-    "Page Down",
+    "PgDn",
     {
       "f": 3
     },
